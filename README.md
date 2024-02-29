@@ -1,3 +1,2 @@
 # hello-world
-This repository is for practising the GitHub
-This is the "feature" branch.
+Hello, I'm ZHENG Dongming at CUHK CSE! 
